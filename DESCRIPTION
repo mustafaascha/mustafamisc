@@ -1,0 +1,12 @@
+Package: mustafamisc
+Type: Package
+Title: My miscellaneous functions
+Version: 0.1.0.9000
+Author: Mustafa Ascha
+Maintainer: Mustafa Ascha <mustafa.ascha@gmail.com>
+Description: There's no real pattern to these functions, outside of the patterns
+    that guide my behavior.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
