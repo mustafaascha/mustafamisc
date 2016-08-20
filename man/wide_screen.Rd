@@ -8,13 +8,13 @@ wide_screen(howWide = Sys.getenv("COLUMNS"))
 }
 \arguments{
 \item{howWide}{Accepts numeric input, but it's better to
- let the function do its work
-
- @example wide_screen()
-
- @export}
+let the function do its work}
 }
 \description{
 Adjust R output to current terminal width (UNIX)
+}
+\examples{
+ wide_screen()
+
 }
 
